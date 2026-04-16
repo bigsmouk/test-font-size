@@ -12,8 +12,24 @@
     font-display: swap;
 }
 
-.text {
-    font-family: 'Ekran', sans-serif;
-    font-size: 7.18vw;
-    line-height: 1.2;
+@font-face {
+    font-family: 'Font for you';
+    src: url('Font for you-400-normal-0.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.text_ekran {
+    font-size: 6.25vw;
+    line-height: 92%;
+    font-family: 'Ekran';
+    letter-spacing: 0.01em;
+}
+
+.text_for_you {
+    font-size: 6.25vw;
+    line-height: 92%;
+    font-family: 'Font for you';
+    letter-spacing: 0.01em;
 }
