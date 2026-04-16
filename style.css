@@ -25,6 +25,7 @@
     line-height: 92%;
     font-family: 'Ekran';
     letter-spacing: 0.01em;
+    font-weight: 700;
 }
 
 .text_for_you {
@@ -32,6 +33,7 @@
     line-height: 92%;
     font-family: 'Font for you';
     letter-spacing: 0.01em;
+    font-weight: 700;
 }
 
 @media (max-width: 479px) {
