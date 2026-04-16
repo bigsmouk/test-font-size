@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Ekran';
+    src: url('Ekran-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.text {
+    font-family: 'Ekran', sans-serif;
+    font-size: 7.18vw;
+    line-height: 1.2;
+}
